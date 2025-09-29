@@ -18,3 +18,36 @@ python:
 4. reusabel code
 5. advanced data processing
 6. complex logic
+
+
+DATA TYPES 
+
+numerical data types : 
+1. integer
+2. float
+3. complex
+
+sequemce and mapping : 
+1. list  my_list = [1,2,3,4,5]
+2. dict  my_dict = (1,2,3,4,5)
+3. sets  my_set = {1,2,3,4,5}
+4. boolean my_boolean = true or false
+
+
+inbuilt functions
+
+name.split()
+length = len(name)
+upper = name.upper()
+lower = name.lower()
+
+regular expressions (regex) :
+Regular expressions are use for anyalysing the particular pattern in log files such as errors.log
+
+
+NAMING CONVENTIONS OF VARIABLES 
+
+1. always declare the variable names in the lower case only
+2. use seperators like (ec2_instance_name = "project_xyz")  -- this is snakcaing format
+3. using camle casr ( Ec2InstanceName = "ProjectAbc")  -- this is camle casing format
+4. make variables as Descriptive as possible.
