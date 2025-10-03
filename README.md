@@ -51,3 +51,17 @@ NAMING CONVENTIONS OF VARIABLES
 2. use seperators like (ec2_instance_name = "project_xyz")  -- this is snakcaing format
 3. using camle casr ( Ec2InstanceName = "ProjectAbc")  -- this is camle casing format
 4. make variables as Descriptive as possible.
+
+
+List & Tuples :
+
+Lists are started with []
+Lists are mutable 
+we can perform the append and remove the actions on lists
+example : we can list-out the s3 buckets in the aws region 
+
+
+tuples are startedwith ()
+tuples are immutable 
+we cannot perform the append and remove action on tuples as they are immutable
+example : Listing the number of aws admins
