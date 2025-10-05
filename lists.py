@@ -8,8 +8,7 @@ ec2_instances = ["t2.micro", "t2.small", "t2.medium", "t2.large", "t2.xlarge", "
 print(ec2_instances)
 print(len(ec2_instances))
 
-ec2_instances.append("m1.medium")
-print(ec2_instances)
+new-list = ec2_instances([0:4])
 print(len(ec2_instances))
 
 ec2_instances.remove("t2.micro")
