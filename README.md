@@ -9,7 +9,7 @@ bash :
 2. environment variables configuration
 3. text processing
 4. system administration
-5. rapid prototype : for immediate tasts execution
+5. rapid prototype : for immediate tasks execution
 
 python:
 1. cross platform compatability.
