@@ -49,7 +49,7 @@ NAMING CONVENTIONS OF VARIABLES
 
 1. always declare the variable names in the lower case only
 2. use seperators like (ec2_instance_name = "project_xyz")  -- this is snakcaing format
-3. using camle casr ( Ec2InstanceName = "ProjectAbc")  -- this is camle casing format
+3. using camle casing ( Ec2InstanceName = "ProjectAbc")  -- this is camle casing format
 4. make variables as Descriptive as possible.
 
 
